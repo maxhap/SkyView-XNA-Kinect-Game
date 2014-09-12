@@ -1,0 +1,6 @@
+C:\SVN_Repositories\sky_view\trunk\SkyView\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+C:\SVN_Repositories\sky_view\trunk\SkyView\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+C:\SVN_Repositories\sky_view\trunk\SkyView\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\SVN_Repositories\sky_view\trunk\SkyView\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+C:\SVN_Repositories\sky_view\trunk\SkyView\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb
+C:\SVN_Repositories\sky_view\trunk\SkyView\SkinnedModel\obj\x86\Debug\SkinnedModelWindows.csprojResolveAssemblyReference.cache
